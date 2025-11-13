@@ -1,0 +1,2 @@
+Select CustomerName 
+From customers
